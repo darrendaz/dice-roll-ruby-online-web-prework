@@ -7,5 +7,3 @@ def roll
   range = (1..6)
   return rand(range)
 end
-
-roll
