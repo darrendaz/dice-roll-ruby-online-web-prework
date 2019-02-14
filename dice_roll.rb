@@ -4,5 +4,7 @@
 
 def roll
   # code goes here
+  array = [1, 2, 3, 4, 5, 6]
+  puts array.sample(1)
   return rand(1..6)
 end
