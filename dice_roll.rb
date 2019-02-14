@@ -7,3 +7,5 @@ def roll
   range = (1..6)
   rand(range)
 end
+
+roll
